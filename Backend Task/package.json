@@ -1,0 +1,23 @@
+{
+    "name":  "new-folder-(2)",
+    "version":  "1.0.0",
+    "description":  "",
+    "main":  "index.js",
+    "scripts":  {
+                    "test":  "echo \\\"Error: no test specified\\\" \u0026\u0026 exit 1",
+                    "dev":  "nodemon index.js",
+                    "start":  "node index.js"
+                },
+    "keywords":  [
+
+                 ],
+    "author":  "",
+    "license":  "ISC",
+    "dependencies":  {
+                         "express":  "^5.1.0",
+                         "express-validator":  "^7.3.0"
+                     },
+    "devDependencies":  {
+                            "nodemon":  "^3.1.10"
+                        }
+}
